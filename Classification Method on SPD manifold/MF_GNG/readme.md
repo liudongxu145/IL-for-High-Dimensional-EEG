@@ -1,6 +1,6 @@
 The implementation code for Growing Neural Gas Network (GNG) can be found at:
 https://yarpiz.com/?s=GNG
-!{text](GNG_MATLAB.png)
+![GNG](GNG_MATLAB.png)
 
 
 The version of MF-GNG can be modified refer to:
