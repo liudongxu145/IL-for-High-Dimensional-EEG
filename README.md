@@ -1,4 +1,4 @@
-# Incremental-Classification-for-High-Dimensional-EEG-Manifold-Representation
+## Incremental-Classification-for-High-Dimensional-EEG-Manifold-Representation
 Incremental Classification for High-Dimensional EEG Manifold Representation Using Bidirectional Dimensionality Reduction and Prototype Learning
 
 # Innovations and major contributions will be updated soon.
